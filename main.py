@@ -23,7 +23,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from playwright.async_api import async_playwright, Page
 
 # ---------- настройки ----------
-BOT_TOKEN = "токен из @botfather" # токен
+BOT_TOKEN = "8699807612:AAFeNnt8wF6Nxth7ajalNb91Ixy32Ue9brs" # токен
 TARGET_URL = "https://web.max.ru" # великий сайт мах, не изменять
 QR_SELECTOR = "div.qr svg" # не изменять
 LOGIN_TIMEOUT = 60_000 # таймер для сканирования QR , в max`e 60 сек, поэтому не изменять
